@@ -1,0 +1,409 @@
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.AssemblyReference.cache
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csprojAssemblyReference.cache
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CopyComplete
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+C:\Users\Cosmos\Downloads\QuestionForKids\QuestionForKids\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.AssemblyReference.cache
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+C:\Users\okang\OneDrive\Masaüstü\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.loginForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csprojAssemblyReference.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.loginForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CopyComplete
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids (2)\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csprojAssemblyReference.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.loginForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CopyComplete
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek1\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csprojAssemblyReference.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.loginForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CopyComplete
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids -Yedek11 - Kopya\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csprojAssemblyReference.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.loginForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CopyComplete
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csprojAssemblyReference.cache
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.loginForm.resources
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilmeyenSorular.resources
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CopyComplete
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+C:\Users\Cosmos\Desktop\Yeni klasör\QuestionsForKids -son1\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.exe
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.deps.json
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.json
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.runtimeconfig.dev.json
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\QuestionsForKids.pdb
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.AssemblyReference.cache
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form1.resources
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Form2.resources
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.loginForm.resources
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilenSorularForm.resources
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.OYBilmeyenSorular.resources
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.Properties.Resources.resources
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.GenerateResource.cache
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfoInputs.cache
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.AssemblyInfo.cs
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.csproj.CoreCompileInputs.cache
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.dll
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.pdb
+D:\QuestionsForKids -son_03062022\QuestionsForKids -son\QuestionsForKids -Yedek\QuestionsForKids\QuestionsForKids\obj\Debug\netcoreapp3.1\QuestionsForKids.genruntimeconfig.cache
